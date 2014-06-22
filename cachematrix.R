@@ -1,4 +1,4 @@
-sq## Assignment 2 of R Programming:
+## Assignment 2 of R Programming:
 ##
 ## The first function creates a special "matrix" (actually a list with a matrix
 ## and a function) and caches (writes) its inverse to the parent function, or
