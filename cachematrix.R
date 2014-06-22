@@ -33,7 +33,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ## has already been calculated then the function returns the cached "matrix".
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+    ## Return a matrix that is the inverse of 'x'
     m <- x$getmenan()
     if(!is.null(m)) {
         message("getting cached data")
